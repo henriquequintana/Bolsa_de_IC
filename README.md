@@ -30,6 +30,7 @@ $$T(x, t) = 100x + \sum_{n=1}^{\infty} (-1)^n \frac{200}{n\pi} \sin(n\pi x)\, e^
 
 ```
 .
+├── Relatório.pdf
 ├── IC.py           # Script principal (treinamento da PINN)
 ├── IC.ipynb        # Notebook com o mesmo código (Google Colab)
 └── README.md
